@@ -835,5 +835,5 @@ models:
     layout: conshacktrending
     folder: /trending
     fields:
-      - name: ''
+      - name: hero-img
         type: image
