@@ -15,7 +15,7 @@ thumb_image_alt: dental-implant-myths
 ---
 ![](/\_static/app-assets/images/dental-implants-hero.jpg)
 
-<img src="">
+<img src="/\_static/app-assets/images/dental-implants-hero.jpg" />
 
 Dental implants are a reliable and advanced way to get your lost smile back. Patients recovering lost teeth with the help of implants will enjoy dysfunction and beautiful smiles for years to come. This method can be safely considered one of the most important dental achievements, but, unfortunately, not everyone dares to choose an implant due to common myths.
 
