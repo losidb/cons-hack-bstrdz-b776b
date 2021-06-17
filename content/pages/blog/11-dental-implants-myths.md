@@ -1,5 +1,5 @@
 ---
-title: 11 Common Myths About Dental Implants
+title: 11 Dental Implants Common Myths
 subtitle: lorem-ipsum
 date: '2021-06-17'
 image_alt: lorem-ipsum
