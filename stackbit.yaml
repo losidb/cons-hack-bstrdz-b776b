@@ -833,3 +833,7 @@ models:
     type: page
     label: conshacktrending
     layout: conshacktrending
+    folder: /trending
+    fields:
+      - name: ''
+        type: string
