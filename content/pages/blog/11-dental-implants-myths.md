@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/ebe6be5b209.jpg
+thumb_image_alt: dental-implant-myths
 ---
 ## ![](/\_static/app-assets/images/ebe6be5b209.jpg)
 
