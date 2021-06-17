@@ -3,7 +3,6 @@ title: 11 Common Myths About Dental Implants
 subtitle: lorem-ipsum
 date: '2021-06-17'
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
