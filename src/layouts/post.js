@@ -25,6 +25,11 @@ export default class Post extends React.Component {
                     <article className="post post-full">
                         <header className="post-header inner-sm">
                             <h1 className="post-title line-top">{title}</h1>
+                                                    {image && (
+                            <div className="post-image">
+                                <img src={withPrefix(image)} alt={imageAlt} />
+                            </div>
+                        )}
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                         </header>
                         {image && (
