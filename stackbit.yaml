@@ -838,4 +838,4 @@ models:
       - name: hero-img
         type: image
       - name: title
-        type: string
+        type: text
