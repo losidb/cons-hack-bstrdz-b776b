@@ -37,7 +37,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/logo-w-300x57.png"
     },
     "footer": {
         "content": "&copy; Jotabu.com. All rights reserved.",
