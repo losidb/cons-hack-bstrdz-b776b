@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/ebe6be5b209.jpg
 ---
 ## ![](/\_static/app-assets/images/ebe6be5b209.jpg)
 
