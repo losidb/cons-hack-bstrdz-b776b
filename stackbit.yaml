@@ -837,3 +837,5 @@ models:
     fields:
       - name: hero-img
         type: image
+      - name: ''
+        type: string
