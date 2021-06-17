@@ -12,6 +12,7 @@ seo:
 layout: post
 thumb_image: /images/ebe6be5b209.jpg
 thumb_image_alt: dental-implant-myths
+image: /images/groovy-strawberry.jpg
 ---
 ![](/\_static/app-assets/images/dental-implants-hero.jpg)
 
