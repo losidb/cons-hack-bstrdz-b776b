@@ -836,4 +836,4 @@ models:
     folder: /trending
     fields:
       - name: ''
-        type: string
+        type: image
