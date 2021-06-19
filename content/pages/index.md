@@ -5,7 +5,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
-    title: Trending Articles
+    title: Latest Stories
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
