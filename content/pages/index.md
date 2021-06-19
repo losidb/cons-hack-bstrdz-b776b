@@ -17,7 +17,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View More Articles
+      - label: View More Popular Articles
         url: blog
         style: button
 seo:
